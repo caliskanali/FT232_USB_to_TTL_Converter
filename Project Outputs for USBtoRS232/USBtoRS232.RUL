@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\ali.caliskan\Downloads\FT232_USB_to_TTL_Converter-master\FT232_USB_to_TTL_Converter-master\USBtoRS232.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.06
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

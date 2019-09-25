@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [USBtoRS232.PrjPcb]
+   Generated File[USBtoRS232.TXT]
+   Generated File[USBtoRS232.LDP]
+   Generated File[USBtoRS232.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:42:34 On 23.09.2019
