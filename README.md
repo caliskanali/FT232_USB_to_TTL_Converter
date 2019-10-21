@@ -2,7 +2,7 @@
 I designed the TTL converter myself for use in electronic circuits and projects. 
 It is a project that I realized with the spnsorship of PCBway.
 Again, I will share the production files publicly on the PCBway web site. If you want to order, you can access from the link below.
-https://www.pcbway.com/project/shareproject/W17489ASK133_Project_Outputs_for_USBtoRS232.html
+https://www.pcbway.com/project/shareproject/FT232_USB_to_TTL_Converter.html
 ![alt text](https://github.com/caliskanali/FT232_USB_to_TTL_Converter/blob/master/USBtoRS232.jpg)
 ![alt text](https://github.com/caliskanali/FT232_USB_to_TTL_Converter/blob/master/USBtoRS232_bottom.jpg)
 
